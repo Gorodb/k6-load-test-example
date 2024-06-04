@@ -1,0 +1,26 @@
+{
+  "name": "k6-test-example",
+  "version": "1.0.0",
+  "description": "Example of k6 load test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gorodb/k6-load-test-example.git"
+  },
+  "keywords": [
+    "k6",
+    "load-testing"
+  ],
+  "author": "Ramis Vakazov <rvakazov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gorodb/k6-load-test-example/issues"
+  },
+  "homepage": "https://github.com/Gorodb/k6-load-test-example#readme",
+  "dependencies": {
+    "k6": "^0.0.0"
+  }
+}
